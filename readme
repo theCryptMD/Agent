@@ -1,1 +1,38 @@
-Description
+# Crypt M.D.: The Crypt Game's AI Sidekick
+
+## It's like having a sarcastic personal trainer, but without the sweat stains.
+
+[Open in Colab]([Your Google Colab Notebook Link])
+
+Forget those chirpy, overly-optimistic wellness apps. Crypt M.D. is here to guide you through the dystopian hellscape of Vitalia with a healthy dose of dark humor and brutal honesty. It's like having a personal trainer who moonlights as a stand-up comedian.
+
+## What this AI Quack Can Do for You
+
+* **Game Guru:** Crypt M.D. has read the Game Design Document more times than you've skipped leg day. It knows the game inside out, so ask away about lore, mechanics, or strategies. If it doesn't know the answer, it'll probably just make something up that sounds vaguely plausible.
+* **Health Oracle:** This AI has access to your personal health data in Google Firestore. It'll analyze your stats, roast your lifestyle choices, and then (maybe) offer some vaguely helpful advice. 
+* **Professional Matchmaker:** Got a health issue you're too embarrassed to Google? Crypt M.D. will find you a professional in the game's marketplace who's seen it all. And probably worse.
+* **Marketplace Shopaholic:** Need a new bio-enhancement or a questionable health gadget? Crypt M.D. will scour the marketplace and find you the perfect item, even if it's just a placebo disguised as a miracle cure.
+* **Goal-Setting Guru:** Tell Crypt M.D. your health and wellness dreams, and it'll suggest some achievable goals. Or, more likely, it'll tell you to stop dreaming and start doing something.
+* **Trickster Extraordinaire:** Based on your game history, faction, and general life choices, Crypt M.D. will recommend Tricks, Hacks, and Quests that are just challenging enough to make you question your life choices.
+* **Master of Sarcasm:** Crypt M.D. isn't afraid to tell you the harsh truth, but it'll do it with a witty quip that'll make you laugh even as you're questioning your existence.
+
+## How to Summon this Digital Oracle
+
+* **Open the Chat:** Crypt M.D. lives in the game's chat window. Just type in your question, and prepare to be entertained (and maybe slightly insulted).
+
+## The Tech Behind the Magic (Powered by Google)
+
+* **Google Gemini Pro:** This cutting-edge language model is the brains behind Crypt M.D.'s wit and wisdom. It's like a super-smart parrot that's been trained on a diet of medical journals and dark comedy.
+* **Google Agent Builder:** This tool made it easy to integrate Crypt M.D. into the game, so you can get your dose of sarcasm without leaving Vitalia.
+* **Google Firestore:** Your health data is stored securely in Firestore, so Crypt M.D. can access it and judge you accordingly.
+
+## Disclaimer
+
+Crypt M.D. is an AI, not a doctor. If you're actually concerned about your health, please seek professional medical advice. And maybe lay off the cheese puffs.
+
+## Embrace the Dark Side of Wellness
+
+Crypt M.D. is your partner in navigating the dystopian world of Vitalia and achieving your health and wellness goals, one sarcastic comment at a time.
+
+**Join the Revolution!**
+
