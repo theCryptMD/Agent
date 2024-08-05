@@ -1,1 +1,12 @@
+Products
+
+It contains the javascript code, for pulling the list of products in a firestore.  It is compiled using Node.js.
+
+Services
+
+It contains the javascript code, for pulling the list of services in a firestore.  It is compiled using Node.js.
+
+User
+
+It contains the python code, for pulling the data of the user in the firestore.  It is compiled using the version Python 3.10.
 
