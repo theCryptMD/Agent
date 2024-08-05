@@ -1,12 +1,42 @@
-Products
+## Overview
 
-It contains the javascript code, for pulling the list of products in a firestore.  It is compiled using Node.js.
+This application provides a simple and efficient way to manage products and services, including the ability to retrieve data related to specific users. The codebase is divided into three main directories, each responsible for a specific category: Products, Services, and User.
 
-Services
+## Technical Information
 
-It contains the javascript code, for pulling the list of services in a firestore.  It is compiled using Node.js.
+Each directory contains a combination of JavaScript and Python code, written using Node.js and Python 3.10 respectively.
 
-User
+### Products
 
-It contains the python code, for pulling the data of the user in the firestore.  It is compiled using the version Python 3.10.
+The `Products` directory contains the JavaScript code responsible for retrieving a list of products from a Firestore database. The code is compiled using Node.js, which allows for seamless integration with the Firebase platform. Within this directory, you'll find:
 
+* `package.json`: This file contains the libraries and dependencies used in the code.
+* `index.js`: This file contains the core logic for fetching the list of products from Firestore and returning the data in a json format.
+
+### Services
+
+Similar to the `Products` directory, the `Services` directory contains the JavaScript code responsible for retrieving a list of services from a Firestore database. Again, the code is compiled using Node.js for optimal compatibility with the Firebase ecosystem. Within this directory, you'll find:
+
+* `package.json`: This file contains the libraries and dependencies used in the code.
+* `index.js`: This file contains the core logic for fetching the list of services from Firestore and returning the data in a json format.
+
+### User
+
+The `User` directory contains the Python code responsible for retrieving data related to a specific user from a Firestore database. The code is compiled using Python 3.10, ensuring compatibility with a wide range of Python-based applications. Within this directory, you'll find:
+
+* `requirements.txt`: This file contains the libraries and dependencies used in the code.
+* `main.py`: This file contains the core logic for fetching the list of services from Firestore and returning the data in a usable format.
+
+### Architecture
+
+By having separate directories for each category (Products, Services, and User), you can easily manage and maintain your codebase, and ensure that each component remains distinct and focused on its specific task.
+
+## Getting Started
+
+To begin using this application, simply clone the repository. You will need to install the required dependencies and set up your Firestore database accordingly.
+
+## Licensing
+
+This application is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify and distribute this application under the terms of the license.
+
+We hope you enjoy using this application! If you have any questions or issues, please don't hesitate to reach out to us.
